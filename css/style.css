@@ -319,7 +319,7 @@ a.menuLink:hover::before, a.menuLink:hover::after, a.menuLink.activated::before,
         margin: 30px 10px;
     }
 
-    #demo-canvas, .slide, .pyrDown, .pyrUp {
+    #demo-canvas {
         display: none;
     }
 
