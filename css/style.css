@@ -250,7 +250,7 @@ a.menuLink:hover::before, a.menuLink:hover::after, a.menuLink.activated::before,
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
-    height: 60vh;
+    height: 100vh;
 }
 
 .pyrUp {
@@ -273,12 +273,6 @@ a.menuLink:hover::before, a.menuLink:hover::after, a.menuLink.activated::before,
     background-repeat: repeat-x;
     top: -11px;
     position: relative;
-}
-
-.contact {
-    min-height: 100vh;
-    width: 60%;
-    margin: auto;
 }
 
 .sendBtn {
@@ -335,9 +329,5 @@ a.menuLink:hover::before, a.menuLink:hover::after, a.menuLink.activated::before,
 
     .reference .info {
         display: none;
-    }
-
-    .contact {
-        width: 100%;
     }
 }
