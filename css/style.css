@@ -71,6 +71,7 @@ a:hover, a:focus {
 .container {
     width: 100%;
     padding: 20px 10%;
+    max-width: 1500px;
 }
 
 #mobile {
@@ -247,8 +248,9 @@ a.menuLink:hover::before, a.menuLink:hover::after, a.menuLink.activated::before,
 
 .slide {
     background: url("../img/bgSlide1.jpg") no-repeat;
+    background-color: #323a45;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100%;
     background-position: center;
     height: 100vh;
 }
