@@ -63,6 +63,7 @@ blockquote {
 a {
   text-decoration: underline;
   color: #16a085;
+  font-weight: normal;
 }
 
 a:hover,
