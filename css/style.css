@@ -189,6 +189,7 @@ a.menuLink.activated::after {
   color: white;
   background: url(../img/about.jpg) no-repeat;
   background-size: cover;
+  font-weight: 300;
 }
 
 .me img {
